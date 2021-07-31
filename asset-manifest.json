@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/ignite-game-info-website/static/js/main.1734108a.chunk.js",
-    "main.js.map": "/ignite-game-info-website/static/js/main.1734108a.chunk.js.map",
+    "main.js": "/ignite-game-info-website/static/js/main.733d953e.chunk.js",
+    "main.js.map": "/ignite-game-info-website/static/js/main.733d953e.chunk.js.map",
     "runtime-main.js": "/ignite-game-info-website/static/js/runtime-main.5ea0457f.js",
     "runtime-main.js.map": "/ignite-game-info-website/static/js/runtime-main.5ea0457f.js.map",
-    "static/js/2.e9c44e0a.chunk.js": "/ignite-game-info-website/static/js/2.e9c44e0a.chunk.js",
-    "static/js/2.e9c44e0a.chunk.js.map": "/ignite-game-info-website/static/js/2.e9c44e0a.chunk.js.map",
+    "static/js/2.78fcff0b.chunk.js": "/ignite-game-info-website/static/js/2.78fcff0b.chunk.js",
+    "static/js/2.78fcff0b.chunk.js.map": "/ignite-game-info-website/static/js/2.78fcff0b.chunk.js.map",
     "index.html": "/ignite-game-info-website/index.html",
-    "static/js/2.e9c44e0a.chunk.js.LICENSE.txt": "/ignite-game-info-website/static/js/2.e9c44e0a.chunk.js.LICENSE.txt"
+    "static/js/2.78fcff0b.chunk.js.LICENSE.txt": "/ignite-game-info-website/static/js/2.78fcff0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5ea0457f.js",
-    "static/js/2.e9c44e0a.chunk.js",
-    "static/js/main.1734108a.chunk.js"
+    "static/js/2.78fcff0b.chunk.js",
+    "static/js/main.733d953e.chunk.js"
   ]
 }
